@@ -1,4 +1,3 @@
-## I will be taking a break from modding, for at minimum another 3 months due to both burnout and university. Meanwhile please check out this alternative version of [Town of Us](https://github.com/AU-Avengers/TOU-Mira) (based off this mod) which should be maintained in my absence.
 
 ## *Note: This repository is an unofficial continuation of Town of Us due to the original repository being discontinued.*
 
@@ -2311,6 +2310,7 @@ If you have any bugs or any need to contact me, join the [Discord Server](https:
 [Term](https://www.twitch.tv/termboii) - For creating Transporter, Medium, Blackmailer, Plaguebearer, Sleuth, Multitasker and porting v2.5.0 to the new Among Us version (v2021.12.15).\
 [BryBry16](https://github.com/Brybry16/BetterPolus) - For the code used for Better Polus.\
 [Alexejhero](https://github.com/SubmergedAmongUs/Submerged) - For the Submerged map.
+[Town Of Ranch Programmers](https://github.com/sciskistolarskie1-dev/Town-Of-Ranch/) -for newer roles
 
 [Essentials](https://github.com/DorCoMaNdO/Reactor-Essentials) - For created custom game options.\
 v1.0.3 uses [Essentials](https://github.com/DorCoMaNdO/Reactor-Essentials) directly.\
