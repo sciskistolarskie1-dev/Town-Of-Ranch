@@ -1,4 +1,4 @@
- ## This repository is written by newbie programmer so expect bugs
+ ## This repository is written by [newbie programmer](https://github.com/wiktor137r) so expect bugs
 ## *Note: This repository is an unofficial continuation of Town of Us due to the original repository being discontinued.*
 
 ![LOGO](./Images/TOU-logo.png)
